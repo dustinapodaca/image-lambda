@@ -10,7 +10,7 @@
 
 ### Process for AWS S3 Bucket Deployment and Lambda Function Trigger Creation
 
-Link to [S3 Bucket JSON Object File](http://expresslysimple-env.eba-a3xtkyx4.us-west-2.elasticbeanstalk.com/).
+Link to [S3 Bucket JSON Object File](https://bucketdust.s3.us-west-2.amazonaws.com/images.json).
 
 - Create an AWS S3 Bucket
   - [AWS S3](https://s3.console.aws.amazon.com/s3/home)
